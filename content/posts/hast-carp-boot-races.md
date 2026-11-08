@@ -32,7 +32,7 @@ primary**, and there must only ever be one of each. A script called
 role and starts or stops the services that live on it, much like the failover
 example in the FreeBSD Handbook.
 
-Each router connects to a UniFi aggregation switch with an LACP `lagg` of two
+Each router connects to a UniFi USW-Aggregation switch with an LACP `lagg` of two
 10G links, and the switches run Rapid Spanning Tree (RSTP), as most managed
 switches do by default.
 

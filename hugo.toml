@@ -1,0 +1,25 @@
+
+baseURL = "https://blog.sagratini.net/"
+languageCode = "en-us"
+title = "Alessandro Sagratini"
+theme = "PaperMod"
+ 
+[pagination]
+  pagerSize = 10
+ 
+[params]
+  description = "Notes on FreeBSD, networking and running infrastructure at home and at work"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+ 
+[params.homeInfoParams]
+  Title = "Hi, I'm Alessandro 👋"
+  Content = """
+SRE by day, running a slightly over-engineered home network by night.
+Notes on FreeBSD, Linux, networking, high availability and automation:
+what worked, what broke, and what I learned fixing it.
+"""
+ 
+[markup.highlight]
+  noClasses = false

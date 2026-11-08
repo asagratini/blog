@@ -20,6 +20,14 @@ SRE by day, running a slightly over-engineered home network by night.
 Notes on FreeBSD, Linux, networking, high availability and automation:
 what worked, what broke, and what I learned fixing it.
 """
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/asagratini"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/alessandrosagratini/"
  
 [markup.highlight]
   noClasses = false

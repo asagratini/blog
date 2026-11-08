@@ -1,7 +1,7 @@
 +++
 title = 'When CARP, HAST and Spanning Tree meet at boot'
 date = 2026-11-08T12:00:00+01:00
-draft = true
+draft = false
 tags = ['freebsd', 'carp', 'hast', 'networking', 'high-availability']
 summary = 'How a 30-second spanning-tree delay made both of my FreeBSD routers MASTER, and the hastd bug I found along the way.'
 ShowToc = true

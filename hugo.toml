@@ -12,6 +12,8 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
+  ShowShareButtons = true
+  ShareButtons = ["linkedin", "x", "reddit", "ycombinator"]
  
 [params.homeInfoParams]
   Title = "Hi, I'm Alessandro 👋"

@@ -7,7 +7,7 @@ env:
   NODE_VERSION: 24.22.1
 
   # Set the build time zone
-  TZ: Europe/Oslo
+  TZ: Europe/Madrid
 on:
   push:
     branches:

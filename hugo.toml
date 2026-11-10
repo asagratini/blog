@@ -1,8 +1,9 @@
 
 baseURL = "https://blog.sagratini.net/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Alessandro Sagratini"
 theme = "PaperMod"
+enableRobotsTXT = true
  
 [pagination]
   pagerSize = 10

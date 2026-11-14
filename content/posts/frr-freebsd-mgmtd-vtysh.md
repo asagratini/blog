@@ -1,7 +1,7 @@
 +++
 title = 'From Quagga to FRR on FreeBSD: the mgmtd and vtysh -b gotchas'
 date = 2026-12-06T12:00:00+01:00
-draft = true
+draft = false
 tags = ['freebsd', 'frr', 'quagga', 'rip', 'networking']
 summary = 'Migrating a tiny RIP setup from Quagga to FRR looked trivial. Then FRR started, said it loaded the configuration, and did nothing.'
 ShowToc = true
